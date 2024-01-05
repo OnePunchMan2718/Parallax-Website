@@ -19,7 +19,7 @@ Parallax Scrolling Website
 
 ## 	Check It Out
 
-
+[Click Here](https://onepunchman2718.github.io/Parallax-Website/)
 
 ## Contributing
 
