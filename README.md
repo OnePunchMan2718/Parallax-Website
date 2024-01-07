@@ -6,7 +6,7 @@
 
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Jungle)](https://git.io/typing-svg)
 
-  ### Desktop Assistance 
+  ### HTML Website 
 
   ![License](https://img.shields.io/github/license/OnePunchMan2718/AniPC?color=598e3c&style=for-the-badge)
   ![Code Size](https://img.shields.io/github/languages/code-size/OnePunchMan2718/AniPC?color=598e3c&style=for-the-badge)
